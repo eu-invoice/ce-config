@@ -1,3 +1,5 @@
+# All development has been moved to a repo https://github.com/CenPC434/ce-config
+
 # CIUS and Extension configuration format for EU invoice
 
 This repo contains draft of machine readable format for describing CIUS and extensions of EU invoice (EN 16931-1:2017)
